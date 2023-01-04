@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MinGarfieldGF.png">
+<SubTexture name="MinGarfield left0000" x="1622" y="2257" width="555" height="542" frameX="-136" frameY="-195" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield left0001" x="2177" y="2257" width="549" height="541" frameX="-150" frameY="-196" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield up0000" x="1998" y="796" width="518" height="660" frameX="-101" frameY="-111" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield up0001" x="0" y="1606" width="525" height="651" frameX="-100" frameY="-120" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield right0000" x="2554" y="0" width="587" height="615" frameX="-174" frameY="-157" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield right0001" x="2554" y="1227" width="568" height="610" frameX="-170" frameY="-162" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield alternate0000" x="540" y="2257" width="540" height="596" frameX="-160" frameY="-176" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield alternate0001" x="1080" y="2257" width="542" height="586" frameX="-157" frameY="-186" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield alternate0002" x="0" y="2257" width="540" height="599" frameX="-162" frameY="-173" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield alternate0003" x="2554" y="615" width="535" height="612" frameX="-166" frameY="-160" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield alternate0004" x="1567" y="1606" width="532" height="616" frameX="-167" frameY="-156" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield down0000" x="606" y="2856" width="612" height="417" frameX="-63" frameY="-152" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield down0001" x="0" y="2856" width="606" height="422" frameX="-60" frameY="-147" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield down0002" x="3141" y="0" width="599" height="423" frameX="-55" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="MinGarfield fall0000" x="1332" y="0" width="240" height="796" frameX="-297" frameY="-53" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0001" x="1332" y="0" width="240" height="796" frameX="-297" frameY="-773" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0002" x="1332" y="0" width="240" height="796" frameX="-297" frameY="-1513" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0003" x="1572" y="0" width="426" height="796" frameX="-216" frameY="-1840" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0004" x="0" y="810" width="291" height="796" frameX="-276" frameY="-1489" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0005" x="291" y="810" width="369" height="796" frameX="-234" frameY="-1561" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0006" x="660" y="810" width="447" height="796" frameX="-195" frameY="-1714" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0007" x="1107" y="810" width="504" height="796" frameX="-180" frameY="-1804" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0008" x="1998" y="0" width="556" height="796" frameX="-158" frameY="-1874" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0009" x="0" y="0" width="532" height="810" frameX="-167" frameY="-1838" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0010" x="525" y="1606" width="517" height="621" frameX="-176" frameY="-2005" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield fall0011" x="1042" y="1606" width="525" height="621" frameX="-172" frameY="-2021" frameWidth="800" frameHeight="2676" />
+<SubTexture name="MinGarfield idle0000" x="532" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

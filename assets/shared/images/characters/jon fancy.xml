@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jon fancy.png">
+<SubTexture name="jon idle0000" x="1654" y="700" width="279" height="696" frameX="-219" frameY="-49" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0001" x="2246" y="691" width="293" height="687" frameX="-211" frameY="-58" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0002" x="2246" y="1378" width="300" height="684" frameX="-208" frameY="-61" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0003" x="1956" y="0" width="290" height="693" frameX="-213" frameY="-53" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0004" x="268" y="745" width="281" height="701" frameX="-216" frameY="-46" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0005" x="0" y="745" width="268" height="703" frameX="-221" frameY="-43" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon idle0006" x="1025" y="0" width="260" height="707" frameX="-226" frameY="-38" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon down0000" x="1062" y="2139" width="559" height="635" frameX="-71" frameY="-108" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon down0001" x="520" y="2139" width="542" height="643" frameX="-79" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon down0002" x="0" y="2139" width="520" height="669" frameX="-90" frameY="-74" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon down0003" x="2808" y="0" width="504" height="683" frameX="-94" frameY="-60" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon up0000" x="0" y="0" width="328" height="745" frameX="-250" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon up0001" x="328" y="0" width="339" height="738" frameX="-245" frameY="-7" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon up0002" x="667" y="0" width="358" height="715" frameX="-236" frameY="-30" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon up0003" x="1285" y="0" width="369" height="706" frameX="-230" frameY="-38" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon right0000" x="0" y="1448" width="647" height="691" frameX="-43" frameY="-60" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon right0001" x="647" y="1448" width="633" height="691" frameX="-41" frameY="-60" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon right0002" x="1280" y="1448" width="590" height="691" frameX="-37" frameY="-60" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon right0003" x="2246" y="0" width="562" height="691" frameX="-37" frameY="-60" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon left0000" x="549" y="745" width="374" height="700" frameX="-113" frameY="-49" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon left0001" x="923" y="745" width="354" height="700" frameX="-133" frameY="-49" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon left0002" x="1277" y="745" width="321" height="700" frameX="-166" frameY="-49" frameWidth="800" frameHeight="800" />
+<SubTexture name="jon left0003" x="1654" y="0" width="302" height="700" frameX="-184" frameY="-49" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfminus.png">
+<SubTexture name="bfminus idle0000" x="1075" y="1412" width="372" height="445" frameX="-154" frameY="-279" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0001" x="1447" y="1412" width="381" height="442" frameX="-152" frameY="-282" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0002" x="703" y="1412" width="372" height="447" frameX="-152" frameY="-277" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0003" x="328" y="1412" width="375" height="455" frameX="-154" frameY="-269" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0004" x="984" y="0" width="376" height="463" frameX="-155" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss10000" x="686" y="950" width="317" height="461" frameX="-195" frameY="-259" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss10001" x="1003" y="950" width="317" height="461" frameX="-197" frameY="-259" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss40000" x="1717" y="0" width="327" height="456" frameX="-249" frameY="-266" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss40001" x="0" y="1412" width="328" height="456" frameX="-245" frameY="-266" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss30000" x="340" y="0" width="301" height="481" frameX="-238" frameY="-220" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss30001" x="0" y="483" width="317" height="467" frameX="-230" frameY="-234" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss20000" x="776" y="1868" width="411" height="341" frameX="-196" frameY="-374" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus miss20001" x="383" y="1868" width="393" height="353" frameX="-205" frameY="-362" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus left0000" x="317" y="483" width="320" height="467" frameX="-178" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus left0001" x="637" y="483" width="316" height="465" frameX="-187" frameY="-259" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus left0002" x="1360" y="463" width="312" height="462" frameX="-199" frameY="-262" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus down0000" x="2044" y="428" width="381" height="400" frameX="-226" frameY="-323" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus down0001" x="0" y="1868" width="383" height="409" frameX="-224" frameY="-314" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus down0002" x="2044" y="0" width="381" height="428" frameX="-223" frameY="-295" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus right0000" x="344" y="950" width="342" height="462" frameX="-251" frameY="-262" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus right0001" x="1320" y="950" width="333" height="459" frameX="-250" frameY="-265" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus right0002" x="1717" y="456" width="326" height="455" frameX="-243" frameY="-269" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus up0000" x="0" y="0" width="340" height="483" frameX="-189" frameY="-234" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus up0001" x="641" y="0" width="343" height="472" frameX="-189" frameY="-245" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus up0002" x="0" y="950" width="344" height="462" frameX="-189" frameY="-255" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0000" x="984" y="463" width="369" height="463" frameX="-209" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0001" x="984" y="463" width="369" height="463" frameX="-209" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0002" x="1360" y="0" width="357" height="463" frameX="-213" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0003" x="1360" y="0" width="357" height="463" frameX="-213" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0004" x="1360" y="0" width="357" height="463" frameX="-213" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0005" x="1360" y="0" width="357" height="463" frameX="-213" frameY="-261" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

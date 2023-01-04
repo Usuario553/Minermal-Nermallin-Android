@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minermal Mad.png">
+<SubTexture name="minermal idle0000" x="454" y="1430" width="460" height="425" frameX="-99" frameY="-225" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal idle0001" x="914" y="1430" width="468" height="423" frameX="-94" frameY="-227" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal idle0002" x="0" y="1430" width="454" height="435" frameX="-103" frameY="-215" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal idle0003" x="1600" y="0" width="449" height="441" frameX="-105" frameY="-209" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal idle0004" x="948" y="974" width="441" height="447" frameX="-110" frameY="-203" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal down0000" x="1382" y="1430" width="423" height="387" frameX="-157" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal down0001" x="1600" y="851" width="428" height="395" frameX="-148" frameY="-249" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal down0002" x="1600" y="441" width="438" height="410" frameX="-132" frameY="-234" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal left0000" x="1124" y="0" width="476" height="457" frameX="-71" frameY="-193" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal left0001" x="1124" y="457" width="469" height="457" frameX="-91" frameY="-193" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal left0002" x="0" y="974" width="470" height="456" frameX="-104" frameY="-194" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal right0000" x="0" y="511" width="481" height="463" frameX="-184" frameY="-187" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal right0001" x="481" y="511" width="483" height="459" frameX="-168" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal right0002" x="470" y="974" width="478" height="456" frameX="-155" frameY="-194" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal up0000" x="0" y="0" width="360" height="511" frameX="-163" frameY="-138" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal up0001" x="360" y="0" width="374" height="502" frameX="-156" frameY="-147" frameWidth="800" frameHeight="800" />
+<SubTexture name="minermal up0002" x="734" y="0" width="390" height="488" frameX="-149" frameY="-161" frameWidth="800" frameHeight="800" />
+</TextureAtlas>
