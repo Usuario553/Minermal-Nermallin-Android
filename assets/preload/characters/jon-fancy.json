@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jon idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jon right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jon fancy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jon-fancy",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		67,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

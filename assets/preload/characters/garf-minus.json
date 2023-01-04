@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MinGarfield idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MinGarfield up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MinGarfield right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MinGarfield left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MinGarfield down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1778
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "MinGarfield fall",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mingarfield",
+	"position": [
+		-160,
+		100
+	],
+	"healthicon": "garf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		177,
+		66
+	],
+	"camera_position": [
+		80,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

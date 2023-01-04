@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "garfeild idle dance"
+		},
+		{
+			"offsets": [
+				180,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "garfield left pose"
+		},
+		{
+			"offsets": [
+				20,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "garfield down pose"
+		},
+		{
+			"offsets": [
+				-120,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "garfield up pose"
+		},
+		{
+			"offsets": [
+				-165,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "garfield right pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garfield",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "garf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		177,
+		66
+	],
+	"camera_position": [
+		100,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
