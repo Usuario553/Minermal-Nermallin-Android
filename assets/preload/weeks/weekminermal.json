@@ -1,0 +1,50 @@
+{
+	"storyName": "Minermal Nermal Minermallinermal",
+	"difficulties": "Easy",
+	"hideFreeplay": false,
+	"weekBackground": "minermal",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Minermal",
+			"nermalM",
+			[
+				166,
+				173,
+				215
+			]
+		],
+		[
+			"MinDX",
+			"nermalMsad",
+			[
+				86,
+				93,
+				195
+			]
+		],
+		[
+			"MinAbuse",
+			"Garf",
+			[
+				255,
+				173,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
